@@ -4,10 +4,23 @@ A high-performance, single-page custom link-in-bio web application built for **A
 
 ---
 
-## 🌐 Live Site
+## 🌐 Live Site & Service Status
 
 If the service is operational, the official live deployment is hosted at:
 **[https://artic.lyrafoxwood.net/](https://artic.lyrafoxwood.net/)**
+
+[![Better Stack Badge](https://incidents.betterstack.com/status-badges/v1/monitor/3153h.svg)](https://incidents.betterstack.com/?utm_source=status_badge)
+
+### 🚨 Service Outage & Downtime Protocol
+
+If `artic.lyrafoxwood.net` is unreachable or offline:
+
+1. **Check Live Status Badge**: Click the Better Stack status badge above to check real-time system health and active incident reports.
+2. **Direct Social Fallbacks**: Access core creator channels directly during web routing disruptions:
+   * **Twitch**: [twitch.tv/artcdragon](https://twitch.tv/artcdragon/home)
+   * **YouTube**: [youtube.com/@Artcdrgn](https://www.youtube.com/@Artcdrgn)
+   * **Discord**: [The Artc Palace](https://discord.com/invite/sSW7C82aGv)
+3. **Report Infrastructure Incidents**: Notify system administration at **Lyra Social Group LLC** via `Contactme@lyrafoxwood.app` or through `lyrasocialgroup.tech`.
 
 ---
 
