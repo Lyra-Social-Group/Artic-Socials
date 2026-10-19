@@ -20,7 +20,7 @@ If `artic.lyrafoxwood.net` is unreachable or offline:
    * **Twitch**: [twitch.tv/artcdragon](https://twitch.tv/artcdragon/home)
    * **YouTube**: [youtube.com/@Artcdrgn](https://www.youtube.com/@Artcdrgn)
    * **Discord**: [The Artc Palace](https://discord.com/invite/sSW7C82aGv)
-3. **Report Infrastructure Incidents**: Notify system administration at **Lyra Social Group LLC** via `Contactme@lyrafoxwood.app` or through `lyrasocialgroup.tech`.
+3. **Report Infrastructure Incidents**: Notify system administration at **Lyra Social Group LLC** via `Contactme@lyrafoxwood.app` or through `status.lyrasocialgroup.tech`.
 
 ---
 
