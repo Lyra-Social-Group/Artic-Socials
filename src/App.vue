@@ -4,7 +4,7 @@ import { ref } from 'vue'
 const profile = ref({
   name: 'ArtcDragon',
   handle: '@ArtcDragon',
-  bio: 'Content Creator • Streamer • Gaming & Art',
+  bio: 'Up and coming content creator and streamer These links are all my socials Xen Recruitment Challenge!!!!',
   avatar: 'https://unavatar.io/youtube/Artcdrgn',
 })
 
