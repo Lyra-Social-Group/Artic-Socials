@@ -1,6 +1,8 @@
 <script setup>
 import { ref } from 'vue'
 
+const currentYear = new Date().getFullYear()
+
 const profile = ref({
   name: 'ArtcDragon',
   handle: '@ArtcDragon',
@@ -77,13 +79,16 @@ const links = ref([
       </div>
     </main>
 
-    <!-- Footer Credit -->
+    <!-- Footer Credit & Copyright -->
     <footer class="footer">
-      made by 
-      <a href="https://lyrafoxwood.com" target="_blank" rel="noopener noreferrer" class="footer-link">
-        lyrafoxwood
-      </a> 
-      with love ❤️
+      <p class="copyright">&copy; {{ currentYear }} {{ profile.name }}. All rights reserved.</p>
+      <p class="credit">
+        made by 
+        <a href="https://lyrafoxwood.com" target="_blank" rel="noopener noreferrer" class="footer-link">
+          lyrafoxwood
+        </a> 
+        with love ❤️
+      </p>
     </footer>
   </div>
 </template>
@@ -251,6 +256,14 @@ const links = ref([
   color: #64748b;
   z-index: 10;
   padding-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  color: #475569;
 }
 
 .footer-link {
