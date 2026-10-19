@@ -27,7 +27,7 @@ const links = ref([
   },
   {
     title: 'Discord Community (The Artc Palace)',
-    url: 'https://disboard.org/server/tag/streamer-community',
+    url: 'https://discord.com/invite/sSW7C82aGv',
     accent: '#6366f1'
   },
   {
