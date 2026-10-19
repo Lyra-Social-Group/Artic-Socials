@@ -1,0 +1,105 @@
+SOFTWARE LICENSE AND END USER TERMS OF AGREEMENT
+
+IMPORTANT: READ THIS SOFTWARE LICENSE AGREEMENT ("AGREEMENT") CAREFULLY BEFORE DEPLOYING, COPYING, OR USING THIS SOFTWARE. THIS AGREEMENT CONSTITUTES A LEGAL AND BINDING CONTRACT BETWEEN YOU (THE "LICENSEE") AND LYRA SOCIAL GROUP LLC ("LICENSOR").
+
+---
+
+1. DEFINITIONS
+
+1.1 "Software" refers to the source code, object code, compiled assets, stylesheets, components, markup, graphic elements, documentation, and underlying logic comprising the web application known as "Artic-Socials" (or "ArtcDragon Official Social Links").
+
+1.2 "Licensor" refers exclusively to Lyra Social Group LLC, its successors, assigns, and legal representatives.
+
+1.3 "Licensee" refers to ArtcDragon, operating under express authorization granted by the Licensor.
+
+1.4 "Authorized Domain" refers specifically to the domain name https://artic.lyrafoxwood.net/ and any explicitly designated subdomains managed and approved in writing by Lyra Social Group LLC.
+
+1.5 "Intellectual Property Rights" means any and all recognized rights under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights throughout the world.
+
+---
+
+2. GRANT OF LICENSE
+
+2.1 Limited Scope License: Subject to the terms and conditions of this Agreement, Licensor grants Licensee a personal, revocable, non-exclusive, non-transferable, non-sublicensable, limited license to run, execute, and host the compiled Software solely on the Authorized Domain for the explicit purpose of displaying social link collections and associated creator branding.
+
+2.2 Reservation of Rights: All rights not expressly granted to Licensee in this Agreement are reserved exclusively by Lyra Social Group LLC. Licensee acquires no ownership, title, interest, or implied rights in or to the Software.
+
+---
+
+3. INTELLECTUAL PROPERTY & OWNERSHIP
+
+3.1 Proprietary Ownership: The Software, including its structure, organization, styling patterns, component hierarchy, interface designs, custom logic, and text layout, is owned solely and exclusively by Lyra Social Group LLC. The Software is protected under United States copyright laws, international treaty provisions, and applicable intellectual property statutes.
+
+3.2 Copyright and Branding Notices: Licensee shall not remove, alter, obscure, or conceal any copyright notices, trademark notices, owner credits ("made by lyrafoxwood"), or legal attributions embedded within the Software interface, codebase, or footer elements.
+
+---
+
+4. RESTRICTIONS ON USE & REDISTRIBUTION
+
+Licensee and any third parties accessing this repository or software shall NOT:
+
+4.1 Sublicense, sell, lease, rent, loan, redistribute, host for third parties, or commercially exploit the Software or any portion thereof without prior express written consent from Lyra Social Group LLC.
+
+4.2 Decompile, reverse engineer, disassemble, decrypt, attempt to derive the source code of, or create derivative works based upon the Software or any part thereof, except to the extent that such restriction is prohibited by applicable law.
+
+4.3 Copy, adapt, or extract specific UI components, custom CSS stylesheets, design schemes, or underlying application structure for use in competing, unrelated, or commercial software applications.
+
+4.4 Deploy or host the Software on any domain or infrastructure other than the designated Authorized Domain (`artic.lyrafoxwood.net`) without prior written permission from Licensor.
+
+---
+
+5. NO WARRANTY & DISCLAIMER
+
+5.1 "AS IS" Provision: THE SOFTWARE IS PROVIDED BY LICENSOR ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+
+5.2 Disclaimer of Implied Warranties: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+5.3 Operational Risks: LICENSOR DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET LICENSEE'S REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED. LICENSEE ASSUMES ALL RESPONSIBILITY AND RISK FOR SELECTING THE SOFTWARE TO ACHIEVE INTENDED RESULTS.
+
+---
+
+6. LIMITATION OF LIABILITY
+
+6.1 Consequential Damages Excluded: TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL LICENSOR (LYRA SOCIAL GROUP LLC), ITS OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, COMPUTER FAILURE, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+6.2 Total Liability Cap: IN ANY CASE, THE ENTIRE AGGREGATE LIABILITY OF LICENSOR UNDER ANY PROVISION OF THIS AGREEMENT OR RELATED TO THE SOFTWARE SHALL BE LIMITED TO THE TOTAL AMOUNT ACTUALLY PAID BY LICENSEE TO LICENSOR FOR THE SPECIFIC SOFTWARE LICENSE GRANTED HEREUNDER, OR $10.00 USD, WHICHEVER IS LESS.
+
+---
+
+7. INDEMNIFICATION
+
+Licensee agrees to defend, indemnify, and hold harmless Lyra Social Group LLC, its affiliates, officers, members, employees, and licensors from and against any claims, liabilities, losses, damages, demands, suits, or expenses (including reasonable attorneys' fees) arising out of or related to:
+(a) Licensee's breach of any provision of this Agreement;
+(b) The deployment or operation of the Software on unauthorized third-party domains; or
+(c) Content posted or distributed through the Licensee's social channels linked via the Software.
+
+---
+
+8. TERM AND TERMINATION
+
+8.1 Term: This Agreement is effective from the first date of Software deployment or code delivery and shall remain in effect until terminated in accordance with this Section.
+
+8.2 Termination for Cause: Licensor reserves the right to immediately terminate this Agreement and revoke the License granted hereunder without notice if Licensee fails to comply with any material term or condition of this Agreement.
+
+8.3 Effect of Termination: Upon termination of this Agreement for any reason, Licensee shall immediately cease all use of the Software, dismantle all hosted instances on all domains, and delete or destroy all copies (full or partial) of the Software in Licensee's possession or control.
+
+---
+
+9. GOVERNING LAW & JURISDICTION
+
+9.1 Governing Law: This Agreement shall be governed by, construed, and enforced in accordance with the laws of the State of Michigan, United States of America, without regard to its principles of conflicts of law.
+
+9.2 Jurisdiction and Venue: Licensee agrees that any legal action, suit, or proceeding arising out of or relating to this Agreement or the Software shall be instituted exclusively in the state or federal courts located in Kent County, Michigan, USA.
+
+---
+
+10. SEVERABILITY & ENTIRE AGREEMENT
+
+10.1 Severability: If any provision of this Agreement is held to be unenforceable, invalid, or illegal by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it valid and enforceable, and the remaining provisions shall remain in full force and effect.
+
+10.2 Entire Agreement: This Agreement constitutes the complete and exclusive statement of the agreement between Licensor (Lyra Social Group LLC) and Licensee regarding the Software, and supersedes all prior or contemporaneous proposals, understandings, representations, and communications, whether oral or written.
+
+---
+
+Copyright (c) 2026 Lyra Social Group LLC & ArtcDragon. All Rights Reserved.
+Licensed exclusively by Lyra Social Group LLC.
